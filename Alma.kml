@@ -1,0 +1,305 @@
+<kml xmlns="http://www.opengis.net/kml/2.2"><Document>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Manantiales Bher</value></Data>
+  <Data name="X"><value>-67.7408793</value></Data>
+  <Data name="Y"><value>-45.67730432</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Desfiladero Bayo (RDLS)</value></Data>
+  <Data name="X"><value>-69.05870451</value></Data>
+  <Data name="Y"><value>-37.33123652</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen San Sebastian (TDF)</value></Data>
+  <Data name="X"><value>-68.15570582</value></Data>
+  <Data name="Y"><value>-53.36249675</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Los Perales</value></Data>
+  <Data name="X"><value>-69.29263313</value></Data>
+  <Data name="Y"><value>-46.20324415</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Cañadón Seco</value></Data>
+  <Data name="X"><value>-67.61238626</value></Data>
+  <Data name="Y"><value>-46.55800067</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Añelo (NOC)</value></Data>
+  <Data name="X"><value>-68.69807335</value></Data>
+  <Data name="Y"><value>-38.35726143</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Barrancas</value></Data>
+  <Data name="X"><value>-68.78021555</value></Data>
+  <Data name="Y"><value>-33.13706371</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Los Cavaos (Malargue)</value></Data>
+  <Data name="X"><value>-69.65378406</value></Data>
+  <Data name="Y"><value>-36.09087504</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen AND - Huincul</value></Data>
+  <Data name="X"><value>-69.20748548</value></Data>
+  <Data name="Y"><value>-38.85936394</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Loma la Lata</value></Data>
+  <Data name="X"><value>-68.60839423</value></Data>
+  <Data name="Y"><value>-38.50228253</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Las Heras</value></Data>
+  <Data name="X"><value>-68.76168345</value></Data>
+  <Data name="Y"><value>-46.53400212</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Señal Picada</value></Data>
+  <Data name="X"><value>-68.1773565</value></Data>
+  <Data name="Y"><value>-37.66276614</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Cañadón Perdido (km20)</value></Data>
+  <Data name="X"><value>-67.48965169</value></Data>
+  <Data name="Y"><value>-45.73155628</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen El Guadal</value></Data>
+  <Data name="X"><value>-69.21653377</value></Data>
+  <Data name="Y"><value>-46.3985358</value></Data></ExtendedData>
+  </Placemark>
+<Placemark id="14">
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Escalante</value></Data>
+  <Data name="X"><value>-67.84292121</value></Data>
+  <Data name="Y"><value>-45.7654062</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen La Ventana</value></Data>
+  <Data name="X"><value>-68.69186864</value></Data>
+  <Data name="Y"><value>-33.32402847</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen El Porton</value></Data>
+  <Data name="X"><value>-69.65695052</value></Data>
+  <Data name="Y"><value>-37.13967911</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen EFO</value></Data>
+  <Data name="X"><value>-67.87427522</value></Data>
+  <Data name="Y"><value>-39.00820148</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Vizcacheras</value></Data>
+  <Data name="X"><value>-68.42139076</value></Data>
+  <Data name="Y"><value>-33.55005684</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Manantiales Bher</value></Data></ExtendedData>
+  <Point><coordinates>-67.7408793,-45.67730432</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Desfiladero Bayo (RDLS)</value></Data></ExtendedData>
+  <Point><coordinates>-69.05870451,-37.33123652</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>San Sebastian (TDF)</value></Data></ExtendedData>
+  <Point><coordinates>-68.15570582,-53.36249675</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Los Perales</value></Data></ExtendedData>
+  <Point><coordinates>-69.29263313,-46.20324415</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Cañadón Seco</value></Data></ExtendedData>
+  <Point><coordinates>-67.61238626,-46.55800067</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Añelo (NOC)</value></Data></ExtendedData>
+  <Point><coordinates>-68.69807335,-38.35726143</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Barrancas</value></Data></ExtendedData>
+  <Point><coordinates>-68.78021555,-33.13706371</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Los Cavaos (Malargue)</value></Data></ExtendedData>
+  <Point><coordinates>-69.65378406,-36.09087504</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>AND - Huincul</value></Data></ExtendedData>
+  <Point><coordinates>-69.20748548,-38.85936394</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Loma la Lata</value></Data></ExtendedData>
+  <Point><coordinates>-68.60839423,-38.50228253</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Las Heras</value></Data></ExtendedData>
+  <Point><coordinates>-68.76168345,-46.53400212</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Señal Picada</value></Data></ExtendedData>
+  <Point><coordinates>-68.1773565,-37.66276614</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Cañadón Perdido (km20)</value></Data></ExtendedData>
+  <Point><coordinates>-67.48965169,-45.73155628</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>El Guadal</value></Data></ExtendedData>
+  <Point><coordinates>-69.21653377,-46.3985358</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Escalante</value></Data></ExtendedData>
+  <Point><coordinates>-67.84292121,-45.7654062</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>La Ventana</value></Data></ExtendedData>
+  <Point><coordinates>-68.69186864,-33.32402847</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>El Porton</value></Data></ExtendedData>
+  <Point><coordinates>-69.65695052,-37.13967911</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>EFO</value></Data></ExtendedData>
+  <Point><coordinates>-67.87427522,-39.00820148</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Vizcacheras</value></Data></ExtendedData>
+  <Point><coordinates>-68.42139076,-33.55005684</coordinates></Point></Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Manantiales Bher</value></Data>
+  <Data name="X"><value>-67.7408793</value></Data>
+  <Data name="Y"><value>-45.67730432</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Desfiladero Bayo (RDLS)</value></Data>
+  <Data name="X"><value>-69.05870451</value></Data>
+  <Data name="Y"><value>-37.33123652</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen San Sebastian (TDF)</value></Data>
+  <Data name="X"><value>-68.15570582</value></Data>
+  <Data name="Y"><value>-53.36249675</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Los Perales</value></Data>
+  <Data name="X"><value>-69.29263313</value></Data>
+  <Data name="Y"><value>-46.20324415</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Cañadón Seco</value></Data>
+  <Data name="X"><value>-67.61238626</value></Data>
+  <Data name="Y"><value>-46.55800067</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Añelo (NOC)</value></Data>
+  <Data name="X"><value>-68.69807335</value></Data>
+  <Data name="Y"><value>-38.35726143</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Barrancas</value></Data>
+  <Data name="X"><value>-68.78021555</value></Data>
+  <Data name="Y"><value>-33.13706371</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Los Cavaos (Malargue)</value></Data>
+  <Data name="X"><value>-69.65378406</value></Data>
+  <Data name="Y"><value>-36.09087504</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen AND - Huincul</value></Data>
+  <Data name="X"><value>-69.20748548</value></Data>
+  <Data name="Y"><value>-38.85936394</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Loma la Lata</value></Data>
+  <Data name="X"><value>-68.60839423</value></Data>
+  <Data name="Y"><value>-38.50228253</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Las Heras</value></Data>
+  <Data name="X"><value>-68.76168345</value></Data>
+  <Data name="Y"><value>-46.53400212</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Señal Picada</value></Data>
+  <Data name="X"><value>-68.1773565</value></Data>
+  <Data name="Y"><value>-37.66276614</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Cañadón Perdido (km20)</value></Data>
+  <Data name="X"><value>-67.48965169</value></Data>
+  <Data name="Y"><value>-45.73155628</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen El Guadal</value></Data>
+  <Data name="X"><value>-69.21653377</value></Data>
+  <Data name="Y"><value>-46.3985358</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Escalante</value></Data>
+  <Data name="X"><value>-67.84292121</value></Data>
+  <Data name="Y"><value>-45.7654062</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen La Ventana</value></Data>
+  <Data name="X"><value>-68.69186864</value></Data>
+  <Data name="Y"><value>-33.32402847</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen El Porton</value></Data>
+  <Data name="X"><value>-69.65695052</value></Data>
+  <Data name="Y"><value>-37.13967911</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen EFO</value></Data>
+  <Data name="X"><value>-67.87427522</value></Data>
+  <Data name="Y"><value>-39.00820148</value></Data></ExtendedData>
+  </Placemark>
+<Placemark>
+<ExtendedData>
+  <Data name="Fisico"><value>Almacen Vizcacheras</value></Data>
+  <Data name="X"><value>-68.42139076</value></Data>
+  <Data name="Y"><value>-33.55005684</value></Data></ExtendedData>
+  </Placemark></Document></kml>
